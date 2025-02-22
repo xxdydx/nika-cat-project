@@ -22,7 +22,7 @@ Run the following commands:
   Create an .env file with:
   ```
   OPENAI_API_KEY=your_openai_api_key_here
-  PORT=5000
+  PORT=6523
   ```
   
   To start the backend server,
